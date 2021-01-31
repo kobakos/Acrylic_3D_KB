@@ -27,8 +27,8 @@ Then, assemble the plate section, using these images as a reference and insert i
 ![case structure](/readme_images/top_bunnkai_sita.png)
 The plate part and the bottom part will intersect like this.
 ![case structure](/readme_images/top_bottom_intersect.png)
-![case structure](/readme_images/top_bottom_intersect_2.png)
-![case structure](/readme_images/top_bottom_intersect_3.png)
+![case structure](/readme_images/top_bottom_intersect-2.png)
+![case structure](/readme_images/top_bottom_interset_3.png)
 
 ## adhere the plate section
 After assmebling the whole case, adhere only the plate section, since you wil have to solder the switches, and it will be hard to insert the plate section to the bottom section with the switches on, when you also adhere the bottom section(Because of my bad design...). Put organic solvent such as dichloromethane in a syringe or brush, and pour the solvent onto the acrylic bonding surface. Apply pressure(not too strong) to the bonding surface, and wait for tens of seconds to adhere the acrylics. You'll need to wait for a day for the acrylic to stik completely, but you can move on to the next step.
