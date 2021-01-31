@@ -25,6 +25,10 @@ Then, assemble the plate section, using these images as a reference and insert i
 ![case structure](/readme_images/top_bunnkai_maue.png)
 ![case structure](/readme_images/top_bunnkai_naname.png)
 ![case structure](/readme_images/top_bunnkai_sita.png)
+The plate part and the bottom part will intersect like this.
+![case structure](/readme_images/top_bottom_intersect.png)
+![case structure](/readme_images/top_bottom_intersect_2.png)
+![case structure](/readme_images/top_bottom_intersect_3.png)
 
 ## adhere the plate section
 After assmebling the whole case, adhere only the plate section, since you wil have to solder the switches, and it will be hard to insert the plate section to the bottom section with the switches on, when you also adhere the bottom section(Because of my bad design...). Put organic solvent such as dichloromethane in a syringe or brush, and pour the solvent onto the acrylic bonding surface. Apply pressure(not too strong) to the bonding surface, and wait for tens of seconds to adhere the acrylics. You'll need to wait for a day for the acrylic to stik completely, but you can move on to the next step.
@@ -36,7 +40,7 @@ source:[MSDSonline](https://www.msdsonline.com/2015/02/20/dichloromethane-methyl
 
 ## wiring and setting up firmwares
 Before wiring, think about where and how to place the pro micro, or any other microcontrollers. In this keyboard, pro micro is meant to be mounted to the bottom plate using [ProMicroSocket(ProMicroのおうち)](https://booth.pm/ja/items/1073313) and m2 standoffs. If you are not using this, you will need to somehow mount the pro micro, and solder the cables to for the left side and the right side to communicate, which was originally done by trs cable. Reset button can be substituted by shorting the pins on pro micro, so it won't be a big problem.
-The rest are the same as other keyboards. Please refer to [hand wiring guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) and [split keyboard guide](https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard) from qmk   .
+The rest are the same as other keyboards. Please refer to [hand wiring guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) and [split keyboard guide](https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard) from qmk.
 Don't wire any rows or cols to the D0 port(PD0) if you are going to use the default settings of QMK's split keyboard.
 
 ## operation verification
