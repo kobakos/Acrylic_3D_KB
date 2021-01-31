@@ -54,9 +54,11 @@ I recommend you to at least put on gloves and ventilate the working area.
 ## Wiring and setting up firmwares
 Wiring are the same as other keyboards. Please refer to [hand wiring guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) and [split keyboard guide](https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard) from qmk.
 Don't wire any rows or cols to the D0 port(PD0) if you are going to use the default settings of QMK's split keyboard.
-The original version mounted the pro micro with a pcb called [ProMicroSocket](https://booth.pm/ja/items/1073313) and standoffs, but since it is hard to get it in countries other than Japan, this version uses a small piece of acrylic to mount the pro micro, as mentioned before. The pro micro will be mounted like the below image.
+The original version mounted the pro micro with a pcb called [ProMicroSocket](https://booth.pm/ja/items/1073313) and standoffs, but since it is hard to get it in countries other than Japan, this version uses a small piece of acrylic to mount the pro micro, as mentioned before. The pro micro will be glued to the acrylic part like the below image.
 ![promicro mount](/readme_images/promicro_mount.png)
 ![promicro mount](/readme_images/promicro_mount_2.png)
+The trs jack will be mounted here.
+![place of trs jack](/readme_images/trs_jack_place.png)
 
 ## Operation verification
 Check if the keyboard works properly since you won't be able to access some of the part of this keyboard once you adhere the whole case.
