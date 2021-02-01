@@ -1,5 +1,3 @@
-# **I strongly recommend you to read this before getting started**
-
 # Acrylic_3D_KB
 This is a 44 key 3D keyboard made by laser cut acrylic, designed by @kobakos32(twitter), u/kobakos32(reddit)
 
