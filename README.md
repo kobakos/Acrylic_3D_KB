@@ -3,7 +3,7 @@
 # Acrylic_3D_KB
 This is a 44 key 3D keyboard made by laser cut acrylic, designed by @kobakos32(twitter), u/kobakos32(reddit)
 
-I assume that most people who read this has basic knowledge on building keyboards,like key matrix and firmwares,so i will just write about something specific on this keyboard.
+I assume that most people who read this has basic knowledge on building keyboards,like key matrix and firmwares,so I will just write about something specific on this keyboard.
 This keyboard is really tall, so an wrist rest is recommended to type properly.(You can make this shorter by cutting off the 2nd pinky column and the bottom thumb key).
 
 In this guide, I will call the red colored part 'plate section', and the gray part 'bottom section'.
@@ -11,6 +11,7 @@ In this guide, I will call the red colored part 'plate section', and the gray pa
 
 # What you'll need
 - keyswitches:44
+- keycaps(only DSA profile):44
 - diodes:44
 - random wire(I used junk LAN cable):appropriate amount
 - pro micro:2
@@ -26,7 +27,7 @@ Please use an 3mm thick sheet for this keyboard.
 # Rough procedure
 
 ## Temporaly assembling the case
-The first step is toy temporary assemble the case before glueing the acrylics together. You have to do this because even a minor error can add up to a major error, which will make the plate section unable to fit the bottom section. 
+The first step is to temporary assemble the case before glueing the acrylics together. You have to do this because even a minor error can add up to a major error, which will make the plate section unable to fit the bottom section. 
 First assemble the bottom section, using these images as a reference. The rectangler shaped acrylic with slits(which is omitted in the image) is for mounting the pro micro so it is not necessary for you to assemble it here.
 (If you want to take a closer look at these images,please look at the original images in the images folder in this repository.)
 Don't place the switches at this point.
@@ -42,14 +43,13 @@ The plate part and the bottom part will intersect like this.
 ![case structure](/readme_images/top_bottom_interset_3.png)
 
 ## Glueing the plate section
-After temporary assmebling the case, glue only the plate section, since you wil have to solder the switches, and it will be hard to insert the plate section to the bottom section with the switches on, when you also glue the bottom section(Because of my bad design...). Put solvent such as dichloromethane in a syringe or brush, and pour the solvent onto the acrylic bonding surface. Apply pressure(not too strong) to the bonding surface, and wait for tens of seconds to glue the acrylics. This is pretty hard to do it so also check some tutorials on how to bond acrylics with solvents. You'll need to wait for a day for the acrylics to stick completely, but you can move on to the next step.
+After temporary assmebling the case, glue only the plate section, since you wil have to solder the switches, and it will be hard to insert the plate section to the bottom section with the switches on, when you also glue the bottom section(Because of my bad design...). Put solvent such as dichloromethane in a syringe or brush, and pour the solvent onto the acrylic bonding surface. Apply pressure(not too strong) to the bonding surface, and wait for tens of seconds to glue the acrylics. This is pretty hard to do it so also check some tutorials on how to bond acrylics with solvents. You'll need to wait for a day for the acrylics to stick completely, but you can move on to the next step.  
 Dicloromethane is not an safe material, so be careful when handling it.
 When handling dichloromethane, use the following safety precautions:
 - Wear protective clothing. Footwear should cover the entire foot.
 - Always wear PPE such as chemical splash goggles and safety gloves.
 - Work in a well-ventilated area (preferably in an environment with a fume extraction system).
-source:[MSDSonline](https://www.msdsonline.com/2015/02/20/dichloromethane-methylene-chloride-hazards-safety-information/)
-I recommend you to at least put on gloves and ventilate the working area.
+source:[MSDSonline](https://www.msdsonline.com/2015/02/20/dichloromethane-methylene-chloride-hazards-safety-information/)  I recommend you to at least put on gloves and ventilate the working area.
 
 ## Wiring and setting up firmwares
 Wiring are the same as other keyboards. Please refer to [hand wiring guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) and [split keyboard guide](https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard) from qmk.
