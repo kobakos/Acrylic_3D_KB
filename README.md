@@ -1,5 +1,6 @@
 # Acrylic_3D_KB
 This is a 44 key 3D keyboard made by laser cut acrylic, designed by @kobakos32(twitter), u/kobakos32(reddit)
+![case structure](/readme_images/3dkbd2.jpeg)
 
 I assume that most people who read this has basic knowledge on building keyboards, like key matrix and firmwares, so I will just write about something that is specific to this keyboard.
 
