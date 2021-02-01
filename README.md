@@ -40,6 +40,7 @@ First assemble the bottom section, using these images as a reference. The rectan
 Don't place the switches at this point.
 ![case structure](/readme_images/bottom_bunnkai.png)
 ![case structure](/readme_images/bottom_bunnkai_2.png)
+![case structure](/readme_images/bottom_bunnkai_3.png)
 Then, assemble the plate section, using these images as a reference and insert it to the bottom section. You can use masking tapes to keep the parts in position. This makes the later glueing process easier.
 ![case structure](/readme_images/top_bunnkai_maue.png)
 ![case structure](/readme_images/top_bunnkai_naname.png)
