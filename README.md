@@ -33,7 +33,7 @@ Please use an 3mm thick sheet for this keyboard.
 # Rough procedure
 
 ## Temporaly assembling the case
-The first step is to temporary assemble the case before glueing the acrylics together. You have to do this because even a minor error can add up to a major error, which will make the plate section unable to fit the bottom section. 
+The first step is to temporary assemble the case before glueing the acrylics together. You have to do this before glueing the case because even a minor error that was made during the glueing process can add up to a major error, which will make the plate section unable to fit the bottom section. 
 
 First assemble the bottom section, using these images as a reference. The rectangler shaped acrylic with slits(which is omitted in the image) is for mounting the pro micro so it is not necessary for you to assemble it here.  
 (If you want to take a closer look at these images, look at the original images in the readme_image folder in this repository.)  
