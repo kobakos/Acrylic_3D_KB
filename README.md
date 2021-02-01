@@ -1,7 +1,7 @@
 # Acrylic_3D_KB
 This is a 44 key 3D keyboard made by laser cut acrylic, designed by @kobakos32(twitter), u/kobakos32(reddit)
 
-I assume that most people who read this has basic knowledge on building keyboards, like key matrix and firmwares,so I will just write about something that is specific to this keyboard.
+I assume that most people who read this has basic knowledge on building keyboards, like key matrix and firmwares, so I will just write about something that is specific to this keyboard.
 
 This keyboard is really tall, so an wrist rest is recommended to type properly.(You can make this shorter by cutting off the 2nd pinky column and the bottom thumb key).
 
@@ -9,14 +9,15 @@ In this guide, I will call the red colored part 'plate section', and the gray pa
 ![case structure](/readme_images/irowake.png)
 
 # What you'll need
-- keyswitches:44
-- keycaps(**only DSA profile**):44
-- diodes:44
-- random wire(I used a junk LAN cable):appropriate amount
-- pro micro:2
-- panel mount trs/trrs jack which is capable of 3mm thick panel (like pj392a):2
-- solvents to stick the acrylics:appropriate amount
+- keyswitches: 44
+- keycaps(**only DSA profile**): 44
+- diodes: 44
+- random wire(I used a junk LAN cable): appropriate amount
+- pro micro: 2
+- panel mount trs/trrs jack which is capable of 3mm thick panel (like pj392a): 2
+- solvents to stick the acrylics: appropriate amount
 - brush or syringe
+- rubber feet: some
 
 # About the files
 In the LaserCutPaths folder, there is a dxf file of where the lasercutter should cut. This data was made to fit into an A4 size sheet(297mm* 210mm). Follow the format of where you order your acrylics to. If you want this to be in a different format, you can modify this file using graphic softwares such as inkscape.
