@@ -16,6 +16,7 @@ In this guide, I will call the red colored part 'plate section', and the gray pa
 - pro micro: 2
 - panel mount trs/trrs jack which is capable of 3mm thick panel (like pj392a): 2
 - solvents to stick the acrylics: appropriate amount
+- masking tape: proper amount
 - brush or syringe
 - rubber feet: some
 
@@ -36,7 +37,7 @@ First assemble the bottom section, using these images as a reference. The rectan
 Don't place the switches at this point.
 ![case structure](/readme_images/bottom_bunnkai.png)
 ![case structure](/readme_images/bottom_bunnkai_2.png)
-Then, assemble the plate section, using these images as a reference and insert it to the bottom section.
+Then, assemble the plate section, using these images as a reference and insert it to the bottom section. You can use masking tapes to keep the parts in position. This makes the later glueing process easier.
 ![case structure](/readme_images/top_bunnkai_maue.png)
 ![case structure](/readme_images/top_bunnkai_naname.png)
 ![case structure](/readme_images/top_bunnkai_sita.png)
