@@ -3,7 +3,7 @@ This is a 44 key 3D keyboard made by laser cut acrylic, designed by @kobakos32(t
 
 I assume that most people who read this has basic knowledge on building keyboards, like key matrix and firmwares, so I will just write about something that is specific to this keyboard.
 
-This keyboard is really tall, so an wrist rest is recommended to type properly.(You can make this shorter by cutting off the 2nd pinky column and the bottom thumb key).
+This keyboard is really tall, so a wrist rest is recommended to type properly.(You can make this shorter by cutting off the 2nd pinky column and the bottom thumb key).
 
 In this guide, I will call the red colored part 'plate section', and the gray part 'bottom section'.
 ![case structure](/readme_images/irowake.png)
