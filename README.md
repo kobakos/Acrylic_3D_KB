@@ -20,9 +20,11 @@ In this guide, I will call the red colored part 'plate section', and the gray pa
 - solvents to stick the acrylics:appropriate amount
 - brush or syringe
 
-# About the laser cut path data
-This data was made to fit into an A4 size sheet(297mm* 210mm). please follow the format of where you order your acrylics to.
-If you want this to be in a different format or modify this, you can do that easily using graphic softwares such as inkscape.
+# About the files
+In the LaserCutPaths folder, there is a dxf file of where the lasercutter should cut. This data was made to fit into an A4 size sheet(297mm* 210mm). please follow the format of where you order your acrylics to. If you want this to be in a different format, you can do that using graphic softwares such as inkscape.
+
+In the 3DModels folder, I put two files, .step one and the one compatible with fusion360. If you want to modify this keyboard, using 3d cad would be an easy way to do it. When I change something of this keyboard, I usually edit the 3d model first, then apply the changings to the dxf file, by projecting the changed part to sketch and exporting it in dxf format (when using fusion360).
+
 Please use an 3mm thick sheet for this keyboard.
 
 # Rough procedure
