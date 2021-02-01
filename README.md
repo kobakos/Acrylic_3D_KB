@@ -12,9 +12,9 @@ In this guide, I will call the red colored part 'plate section', and the gray pa
 - keyswitches:44
 - keycaps(**only DSA profile**):44
 - diodes:44
-- random wire(I used junk LAN cable):appropriate amount
+- random wire(I used a junk LAN cable):appropriate amount
 - pro micro:2
-- plate mount trs jack which is capable of 3mm thick plate:2
+- panel mount trs/trrs jack which is capable of 3mm thick panel (like pj392a):2
 - solvents to stick the acrylics:appropriate amount
 - brush or syringe
 
@@ -73,4 +73,4 @@ Check if...
 - the communication between the left side and the right side is working properly.
 
 ## Glueing the whole case
-If it seems like there are no errors, insert the plate section to the bottom section and glue the rest of the case, including pro micro and you're done!
+If it seems like there are no errors, insert the plate section to the bottom section and glue the rest of the case, including pro micro. Put some rubber feet to the bottom plate to stop this from sliding and you're done!
