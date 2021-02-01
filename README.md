@@ -6,6 +6,8 @@ I assume that most people who read this has basic knowledge on building keyboard
 This keyboard is really tall, so a wrist rest is recommended to type properly.(You can make this lower by cutting off the 2nd pinky column and the bottom thumb key).
 
 In this guide, I will call the red colored part 'plate section', and the gray part 'bottom section'.
+
+(This image is the old version, but it's basically the same)
 ![case structure](/readme_images/irowake.png)
 
 # What you'll need
@@ -42,6 +44,8 @@ Then, assemble the plate section, using these images as a reference and insert i
 ![case structure](/readme_images/top_bunnkai_naname.png)
 ![case structure](/readme_images/top_bunnkai_sita.png)
 The plate section will be inserted to the bottom section like this.
+
+(This image is the old version, but it's basically the same)
 ![case structure](/readme_images/top_bottom_intersect.png)
 ![case structure](/readme_images/top_bottom_intersect-2.png)
 ![case structure](/readme_images/top_bottom_interset_3.png)
