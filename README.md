@@ -66,7 +66,7 @@ I recommend you to at least put on gloves and ventilate the working area.
 
 ## Wiring and setting up firmwares
 Place the switches to the plate section. Glue the switches to the plate, or otherwise you'll break the solder joints when you try to change the keycaps.
-After that, it's time to write things up. Wiring are the same as other keyboards. Refer to [hand wiring guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) and [split keyboard guide](https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard) from qmk.　Make sure that the wiring does not interfere with the case when it is assembled.　Also, don't wire any rows or cols to the D0 port(PD0) if you are going to use the default settings of QMK's split keyboard.
+After that, it's time to wire things up. Wiring are the same as other keyboards. Refer to [hand wiring guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) and [split keyboard guide](https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard) from qmk.　Make sure that the wiring will not interfere with the case when it is assembled.　Also, don't wire any rows or cols to the D0 port(PD0) if you are going to use the default settings of QMK's split keyboard.
 
 The original version mounted the pro micro with a pcb called [ProMicroSocket](https://booth.pm/ja/items/1073313) and standoffs, but since it is hard to get it in countries other than Japan, this version uses a small piece of acrylic to mount the pro micro, as mentioned before. The pro micro will be glued onto the acrylic part like the below image.
 ![promicro mount](/readme_images/promicro_mount.png)
